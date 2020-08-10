@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vms-website
 
 ## Build Setup
@@ -18,3 +19,6 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+=======
+# vms-website
+>>>>>>> 895793ef60f863742c916add99416e2f7fd0c507
